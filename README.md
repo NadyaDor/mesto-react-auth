@@ -10,4 +10,4 @@
 Портирование кода, адаптация всплывающих окон popup
 Настройка работы Api для react версии
 
-https://nadyador.github.io/mesto-react/
+https://mesto-reactauth.vercel.app/

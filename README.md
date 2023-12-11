@@ -10,4 +10,4 @@
 Портирование кода, адаптация всплывающих окон popup
 Настройка работы Api для react версии
 
-https://mesto-reactauth.vercel.app/
+https://mesto-react-auth-brown.vercel.app/
